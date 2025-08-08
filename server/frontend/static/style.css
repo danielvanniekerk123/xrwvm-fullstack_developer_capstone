@@ -4,13 +4,14 @@ img{
 }
 
 .card{
-  border: rgb(103, 102, 105) 3px solid;
+  border: rgb(103, 101, 109) 3px solid;
   display: flex;  
   flex-direction: column;
   margin-left:5%;
   margin-right:5%;
   margin-top: 1%;
   margin-bottom: 1%;
+  border-radius: 8px;
 }
 
 .row{
@@ -20,16 +21,16 @@ img{
   margin: auto;
   margin-top: 1%;
   justify-content: center;
-  padding:20px;
+  padding:15px;
 }
 
 .container{
   justify-content: center;
 }
 .details{
-  font-size: 20px;
+  font-size: 15px;
   color: rgb(97, 64, 128);
-  padding:20px;
+  padding:15px;
 }
 
 .title{
@@ -37,12 +38,12 @@ img{
   background-color: rgb(97, 64, 128);
   color: white;
   text-align: center;
-  margin:20px;
+  margin:15px;
   padding:5px;
 }
 
 .homepage_links{
-  color:  rgb(97, 64, 128);
+  color:  rgb(171, 118, 220);
   padding: 25%;
   font-size: larger;
   }
@@ -120,7 +121,7 @@ img{
     width:40px;
     background-color:#0C9;
     color:#FFF;
-    border-radius:50px;
+    border-radius:60px;
     text-align:center;
     box-shadow: 2px 2px 3px #999;  
 }
